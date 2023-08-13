@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-optimg-staging-73525-authRole",
+      "UnauthRoleArn": "arn:aws:iam::976274590149:role/amplify-optimg-staging-73525-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::976274590149:role/amplify-optimg-staging-73525-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-optimg-staging-73525-deployment",
+      "UnauthRoleName": "amplify-optimg-staging-73525-unauthRole",
+      "StackName": "amplify-optimg-staging-73525",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:976274590149:stack/amplify-optimg-staging-73525/f82529c0-39ab-11ee-8f6b-0ac739a75723",
+      "AmplifyAppId": "d21owyvdmia2ym"
+    }
+  }
+}
